@@ -9,7 +9,8 @@ But let me give you a big warning here! Performing a DDOS attack onto any server
 
 WHAT IS DDOS?
 
-DDOS stands for Distributed Denial of Service and it is an attack where we block the ressources of a server by flooding it with requests. Usually this kind of attack is never performed alone but with the help of so-called botnets. PY-PANTHER
+DDOS stands for Distributed Denial of Service and it is an attack where we block the ressources of a server by flooding it with requests. Usually this kind of attack is never performed alone but with the help of so-called botnets. 
+     PY-PANTHER
 
 In a botnet, one hacker infects many computers and servers of ordinary people, in order to use them as zombies. He uses them for a collective attack onto a server. Instead of one DDOS script, he can now run thousands of them. Sooner or later the server will be overwhelmed with the amount of requests so that it is not even able to respond to an ordinary user. For smaller and weaker servers, sometimes one attacker is enough to get it down. However, usually such an attack can be counteracted by blocking the IP-addresses of the attackers.
 
