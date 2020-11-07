@@ -1,5 +1,4 @@
-##PY-PANTHER
-
+PY-PANTHER
 A lite weight ADVANCED Network enumerator and an DDOS emulator
 INTRODUCTION
 
@@ -18,19 +17,19 @@ How to use it
 
 First unload and allow permisions.
 
-git clone https://github.com/redteamacademy/ADCDGRP/pypanther.git
-cd pypanther
-chmod +x pypanther.py
+    git clone https://github.com/redteamacademy/ADCDGRP/pypanther.git
+    cd pypanther
+    chmod +x pypanther.py
 
 If it does not work, try to install all the libraries that are located in the file requirements.txt
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 RUN
 
-./pypanther.py
-OR
-python3 pypanther.py
+    ./pypanther.py
+    OR
+    python3 pypanther.py
 
 Disclaimer
 
