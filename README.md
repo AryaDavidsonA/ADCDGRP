@@ -17,7 +17,7 @@ WHAT IS NMAP? Nmap, short for Network Mapper, is a free, open-source tool for vu
 
 First unload and allow permisions.
 
-    git clone https://github.com/redteamacademy/ADCDGRP/pypanther.git
+    git clone https://github.com/AryaDavidsonA/ADCDGRP.git
     cd pypanther
     chmod +x pypanther.py
 
