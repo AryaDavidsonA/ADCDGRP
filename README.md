@@ -1,7 +1,7 @@
 # PY-PANTHER
 A lite weight ADVANCED Network enumerator and an DDOS emulator
         
-INTRODUCTION
+# INTRODUCTION
 
 we are going to write a penetration-testing script, namely a DDOS script, in Python. This program will allow us to flood a server with so many reqeusts that, after a while, it won’t be able to respond anymore and it will go down.
 
@@ -39,7 +39,7 @@ RUN
 This tool has been published educational purposes. we are not responsible for the use or the scope that someone may have through this project.
 
 We are totally convinced that if we teach how vulnerable things really are, we can make the Internet a safer place.
-Developer
+# Developer
 
 ADCD STUDENTS COCHIN & CALICUT
 # Happy Pentesting!
